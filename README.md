@@ -1,8 +1,4 @@
-# www
-www.dialogstream.com
-
-
-# DialogStream - Inteligentna Komunikacja dla Twojego Biznesu
+# [DialogStream - Inteligentna Komunikacja dla Twojego Biznesu](http://www.dialogstream.com)
 
 ## Nasza Misja
 Transformujemy komunikację biznesową w płynny strumień dialogu, łącząc zaawansowaną technologię z ludzkim podejściem.
@@ -346,5 +342,3 @@ Kluczowe wskaźniki do monitorowania:
 3. Wykorzystanie zasobów
 4. Satysfakcja klientów
 5. ROI z marketingu
-
-Chcesz, żebym rozwinął któryś z tych aspektów lub dodał inne modele monetyzacji?
